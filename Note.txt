@@ -1,0 +1,18 @@
+Retail Sales Dashboard
+
+An interactive Tableau dashboard built using the Superstore dataset. This project showcases key performance metrics such as total sales, total profit, regional performance, and category breakdowns.
+
+Tools Used
+- Excel
+- Tableau
+- GitHub
+
+Features
+- Superstore Data cleaned
+- Data Analysed
+- KPI cards with Total Sales and Profit
+- Filters by Category, Region, and Segment
+- Visuals: Trend lines, bar charts, and maps
+- Profit Margin excluded due to data anomalies
+
+The goal of this project was to practice end-to-end data analysis and dashboard storytelling with visuals.
